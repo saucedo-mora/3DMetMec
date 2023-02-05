@@ -12,3 +12,5 @@ The units of the files geo_data.stl and mech_data.csv needs to be consistent, an
 name can not be changed.
 
 The 3DMetMEc.jl needs to be open ina compiler and just run it.
+
+Both geo_data.stl and mech_data.csv are just examples of the file input, and should be adapted to each case calculated.
